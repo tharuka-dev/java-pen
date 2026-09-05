@@ -7,4 +7,4 @@ Precise Ink Calculation: Calculates ink consumption per character based on a sta
 Cap State Validation: Ensures the pen cannot write unless the cap is removed.
 Partial Writing Logic: If the ink is insufficient to complete an entire word, the program calculates how many characters can be written, outputs the written part, stores the unwritten part, and depletes the remaining ink to zero.
 
-# [Pen Write Logic Diagram](pen-simulator-banner.png)
+*** [Pen Write Logic Flowchart](pen-simulator-banner.png) ****
